@@ -4,3 +4,4 @@ def twoSum(self,nums:list[int],target:int)->list[int]:
             return [i,i+1]
 
     return [len(nums)-1,len(nums)]
+#
